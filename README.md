@@ -1,5 +1,4 @@
 # HeyLemma - ASSISTANT
-# Lemma - Your Voice Assistant
 
 **Lemma** is a voice-activated assistant built in Python that allows you to interact with various online services, generate QR codes, tell jokes, and check the current time, all through voice commands.
 
